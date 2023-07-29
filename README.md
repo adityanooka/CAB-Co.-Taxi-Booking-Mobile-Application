@@ -6,4 +6,4 @@ Attached is a Case Study emphasizing on how this mobile application cuts time of
 
 FIGMA LINK: https://www.figma.com/file/DYqQKPDIRb8MeEjiz31Wyp/CAB-co.?type=design&node-id=1%3A542&mode=design&t=UqPCGWF9SChJieY4-1
 
-(Kindly click on the Play button and click on the designated spaces to view the model.)
+(Kindly click on the Play button and then on the designated spaces to go through the application model.)
