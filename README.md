@@ -1,4 +1,4 @@
-# CABco.-Taxi-Booking-Mobile-Application
+# CAB Co.-Taxi-Booking-Mobile-Application
 CAB Co. is a hypothetical Taxi Booking Mobile Application which has a simple, minimalistic User Interface.
 I've done this project for a certification by Coursera Project Network.
 
